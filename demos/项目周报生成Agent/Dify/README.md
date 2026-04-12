@@ -8,7 +8,8 @@
 该作品是我在转型 **AI 解决方案架构师** 过程中的第一个实战项目，旨在展示如何利用低代码/零代码 AI 工具快速解决实际业务痛点。
 
 - **在线体验**：[(https://udify.app/chat/G03cYVLNhEkZmv1t)]
-
+ **调试结果**：[![周报生成示例](AI-Learning-2026/demos/项目周报生成Agent/Dify
+/测试.png)]
 ---
 
 ##  业务背景与痛点
@@ -45,5 +46,4 @@ C --> D[LLM 根据提示词生成周报]
 D --> E[输出 Markdown 格式周报]
 
 
- **调试结果**：[![周报生成示例](AI-Learning-2026/demos/项目周报生成Agent/Dify
-/测试.png)]
+
