@@ -6,8 +6,8 @@
 
 ## 📚 学习进度
 
-- 🔄吴恩达《AI for Everyone》（进行中）
-- 📝 谷歌《生成式AI入门》（计划中）
+- 🔄吴恩达《AI for Everyone》（完成）
+- 📝 谷歌《生成式AI入门》（进行中）
 - 🚀 提示词工程（计划中）
 - 🚀 RAG与LangChain（计划中）
 - 🚀 AI System（计划中）
