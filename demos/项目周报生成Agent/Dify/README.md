@@ -10,7 +10,7 @@
 - **在线体验**：[(https://udify.app/chat/G03cYVLNhEkZmv1t)]
  ## 示例截图
 
-![项目周报生成Bot运行示例](AI-Learning-2026/demos/项目周报生成Agent/Dify
+![项目周报生成Bot运行示例](./demos/项目周报生成Agent/Dify
 /测试.png)
 ---
 
